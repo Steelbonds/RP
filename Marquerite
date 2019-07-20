@@ -1,0 +1,198 @@
+<style type="text/css" onload="try { document.title = 'The Ditzy Bookworm'; } catch (error) { }">
+@import url(https://fonts.googleapis.com/css?family=Allura);
+@import url(https://fonts.googleapis.com/css?family=Inknut+Antiqua);
+::-webkit-scrollbar { width: 5px; height: 5px;}
+::-webkit-scrollbar-track { border-radius: 5px; background-color: #323336;}
+::-webkit-scrollbar-thumb { border-radius:5px; background-color: #D94865;}
+
+body { 
+background-color:#4E4F53;
+background-image:url('http://i.imgur.com/ynZTOLO.png');
+} 
+
+#title {
+ position: absolute;
+ z-index: 5;
+ top: 0px;
+ left: 100px;
+ color:#D94865;
+ text-shadow: 6px 6px 4px #000000;
+ font-family: Allura;
+ font-size: 70pt;}
+
+#buttons {
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+border-radius: 5px;
+ width: 70px;
+ position: absolute;
+ z-index:1;
+ top: 70px;
+ left: 0px;
+ overflow: auto;
+ font-family: Times New Roman;
+}
+ 
+#buttons a {
+ display: block;
+border-radius: 5px;
+ color:#D94865;
+ text-shadow: 2px 2px 2px #000000;
+ font-size: 12pt;
+ padding: 8px 8px 8px 8px;
+ text-decoration: none;
+}
+ 
+#buttons a:hover{
+border-radius: 5px;
+ background-color: #D94865;
+ color:#FFFFFF;
+ text-shadow: 2px 2px 2px #000000;
+ font-size: 12pt;
+}
+
+#infobox {
+ position: absolute;
+ z-index:4;
+ height: 579;
+ left: 70px;
+ width: 850px;
+ top: 70px;
+ color:#ffffff;
+ background: rgba(0,0,0,0.6);
+text-shadow: 2px 2px 2px #000000;
+ font-family: Times New Roman ;
+ font-size: 14pt;}
+#infobox img {
+ width: 100%;}
+
+#credit{
+ position: absolute;
+ z-index:4;
+ top: 595px;
+ left: 920px;
+ color:#D94865;
+text-shadow: 2px 2px 2px #000000;
+ font-family: Times New Roman ;
+ font-size: 12pt;}
+
+#player{
+ position: absolute;
+ z-index:4;
+ top:250px;
+ left:10px;
+ width: 45px;
+ overflow: hidden;
+ border-radius: 25px;
+ border: 2px solid #D94865;
+ box-shadow: 2px 2px 2px #000000;}
+
+</style>
+
+<div id="buttons">
+<center>
+<a href="#main">Main</a>
+<a href="#stats">Stats</a>
+<a href="#bio">Bio</a>
+<a href="#ooc">OOC</a>
+<a href="#gallery">Gallery</a>
+</center>
+</div>
+
+<div id="credit">
+<p align ="left">
+BAD<br>
+<a href="BAD" target="new">Please steal!</a>
+</p>
+</div>
+
+<div id="title">
+Marguerite Deschanel
+</div>
+
+<div id="infobox">
+<center>
+<div style="height: 100%; overflow-y: hidden;">
+
+<a name="main"></a>
+<div style="width:100%; height: 100%; overflow: auto;" align="center">
+<img src="https://s-media-cache-ak0.pinimg.com/564x/26/60/d3/2660d35ee3a547b046cbfc0c7fa5f9bc.jpg" width="600">
+</div>
+
+<a name="stats"></a>
+<div style="width:80%; height: 100%; overflow: auto;" align="center">
+<br><br><br>
+<p align ="left">
+<font color="#D94865">Occupation:</font> Looking for a job<br>
+<font color="#D94865">Sex:</font> Female<br>
+<font color="#D94865">Orientation:</font> Pansexual/Switch<br>
+<font color="#D94865">Relationship:</font><br>
+<font color="#D94865">Protector:</font> <a target="_blank" href=https://roleplay.chat/profile.php?user=Abyss+Tabula-Rasa>Abyss Tabula Rasa</a> (She is his Ward)<br>
+<font color="#D94865">Mate:</font><br>
+<font color="#D94865">Hair and Eyes:</font>Reddish Blonde and Golden Hues. <br>
+<font color="#D94865">Preferences:</font> I like a 50/50 roles but will sub for the right people. <br>
+<font color="#D94865">Likes:</font> Main chat RP, love rough sex but also like gentle and loving sex, cuddling, innocent or slutty partners, SEX TOYS!, literature, making lasting friendships and lovers. Virtually limitless (few exceptions, please ask before we start roleplay), Very open to main room roleplay. 
+</p>
+<br><font color="#D94865">Fetishes</font><br>
+I have many, you just have to find out what they are.<br><br>
+
+<font color="#D94865">-Favorites-</font><br>
+<p align ="left">
+<font color="#D94865">Romance:</font> Sweet pairings and stories<br>
+<font color="#D94865">Kissing:</font> Too much is never enough<br>
+<font color="#D94865">Oral:</font> This can range from sensual blowjobs to rough and hardcore (mood permitting)<br>
+<font color="#D94865">Secret/quiet sex:</font> I never quiet. ♥<br>
+<br></p>
+
+<font color="#D94865">-Stuff I need to be in the mood for-</font><br>
+<p align ="left">
+<font color="#D94865">Domination:</font> I am more Sub than Dom. <br>
+<font color="#D94865">Age gap:</font> N/A<br>
+<font color="#D94865">Public sex:</font> I don't care who sees.<br>
+<font color="#D94865">Cuckold:</font> Don't understand the meaning of the term.<br>
+<font color="#D94865">Gangbang:</font> Depends on my mood. The timing and setting has to suit me.<br>
+</p>
+</div>
+
+<a name="bio"></a>
+<div style="width:80%; height: 100%; overflow: auto;" align="center">
+<br><br><br>
+<p align="left">
+<br>
+History: I was a contract killer many years ago. I had a master that wanted me to kill his enemies. He was a demon lord. At the time I had no problem doing his bidding. But as time passed, I found out about those enemies. The were innocents. I started to feel the pain and the suffering as I killed them. So I ran from him and that life. Then I hid for twenty years or more. Then recently, I came out hiding. I started to roam around and meet new people and found out who I was. Most of my life I just thought I was just a demon. But after walking into The Hell Club and open myself to actually feel what it was like to be with someone. One taste, I knew that I was more than a demon. The more I had sex the more I craved it. In that same club, I have met the most wonderful man the world. he was the bartender there and i thought he was very cute. We knew how to push each others lust buttons. but over time we fell for each other. We both left the club and never looked back. We found another tavern to live and made friends with the owner. After settling there, that s when the demon King returned. With the help of my husband and friends, we had finally defeated him. When things settled, we got married after the birth of our daughter Faith. 
+<br><p>
+He has opened my eyes to many things. He is my heart and soul. He completes me. (I love you Kirk.) Now we finally have a new addition to the family. We have two kids, a daughter named Faith and a son named Ryker. 
+<br><p>
+Year later, I find myself alone and with one child, my duaghter. Kirk had left me behind with her and took our son with him to who knows where. Though I miss them, but I have learned to move on. Raised our daughter to be a strong female and stand up for herself. She found a mate that treats her with respect and love. As for me, I found the one person who truely sees me for who I am and doesn't hold me back. Steelbonds is everything that I need in a man. He loves me and treats me good. We have an open relationship, giving us the freedom to see others but to aleways make time for each other when we are together. I am marked on one horn, showing that I am his and also I wear his collar, that shows the bond we share. 
+<br><p>
+Well another relationship lost, due to unforseen reasons but we do talk from time to time. He did tell me that I should move on and find a new love. But it is hard to when one's heart heart has been hurt or broken over and over agai. I will miss him, Steelbonds, with all my heart. I know that I will find love again but I will put a wall around my heart and the next man has to work to get my love.
+<br><p>
+I have met the most interesting man , he is a captain of his own ship. But he is human. It is not a good mix between a human and a succubus. Cause i can accidently kill him with sex. But i amj willing to try if he is willing to put up with me. Over the weeks now, He has wore my defenses down and worked his way into my life. I still ave my wall up but slowly he is taking a brick down one at a time. He even asked me to be his wife. I told him that I would if he will let me feed of other for the energy, so I won't hurt him. He said he would allow that, as long as I am his for love. So now I wear a ring on my finger.(W.I.P.)
+</p>
+</div>
+
+<a name="ooc"></a>
+<div style="width:80%; height: 100%; overflow: auto;" align="center">
+<br><br><br>
+<font color="#D94865">
+A note about smut/RP in general:</font><br>
+<p align="left">
+First, IC does not equal OOC. Other than that, I am an easy going person. I am not always on here in RPC. When I am, I am here for friendship and fantasy RP. I like to talk in the main room mostly, but I am PM friendly. Just PLEASE dont start with a RP post. I like to talk out details before I do any RP. If you do I might not respond. Also if I am in a rp, I will kindly tell you that I am busy and I will get back to you. I do have Skype and Kik but they are earned, not given.
+<br><br>
+Main room always takes priority over PM for me. Approaching in room is always your best bet. Semi to Multi-para. Third person past tense.<br><br>
+Original code by me. <b>Feel free to steal!</b> Leaving the credit section in for me would be nice!
+</div>
+
+<a name="gallery"></a>
+<div style="width:100%; height: 100%; overflow: auto;" align="center">
+<br><br><br>
+
+</div>
+</div></div>
+
+<div id="player">
+<center>
+<audio controls><source src="http://orig07.deviantart.net/45a6/f/2016/102/9/f/ma_prfrence__julien_clerc____elizaveta_by_-d9yolqe.mp3"></audio>
+</center>
+</div>
